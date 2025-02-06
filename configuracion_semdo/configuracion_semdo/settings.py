@@ -81,11 +81,11 @@ WSGI_APPLICATION = 'configuracion_semdo.wsgi.application'
 DATABASES = {
      'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'semdo_db',         
+        'NAME': 'semdo_d',         
         'USER': 'postgres',       
-        'PASSWORD': '12345678',
+        'PASSWORD': 'berdez2025',
         'HOST': 'localhost',        
-        'PORT': '5432',             
+        'PORT': '5432',                 
     }
 }
 
